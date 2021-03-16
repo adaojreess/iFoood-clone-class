@@ -28,7 +28,7 @@ class HeaderLocationComponent extends StatelessWidget {
                   children: [
                     Text(
                       location,
-                      style: AppTypography.bodyTextBold(context),
+                      style: AppTypography.localTextStyle(context),
                     ),
                     AppIcon(
                       AppIcons.arrowDown,
