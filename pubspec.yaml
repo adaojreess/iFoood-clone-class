@@ -25,6 +25,7 @@ dependencies:
   flutter_svg:
   flutter:
     sdk: flutter
+  json_annotation:
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -45,7 +46,7 @@ flutter:
     - "assets/icons/bottom/"
     - "assets/icons/ordenation/"
     - "assets/images/"
-    - "assets/images/categorys/"
+    - "assets/images/categories/"
     
   fonts:
     - family: "Nunito Sans"
